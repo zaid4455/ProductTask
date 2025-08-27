@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1001",
+      "name": "iPhone 15",
+      "shortDescription": "أحدث هاتف من آبل",
+      "description": "iPhone 15 يأتي بشاشة 6.7 بوصة وكاميرا مزدوجة بدقة 48 ميجابكسل.",
+      "status": "active",
+      "productNumber": "IP15-001",
+      "price": "1200",
+      "discountStatus": "yes",
+      "discount": "100",
+      "discountStart": "2025-08-01",
+      "discountEnd": "2025-08-31",
+      "quantity": "50",
+      "category": "هواتف",
+      "brand": "Apple",
+      "images": [
+        "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-hero-geo-230912_inline.jpg.large.jpg",
+        "https://tse2.mm.bing.net/th/id/OIP.ZFlhSyb1dQLuYakjjhpMCAAAAA?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3"
+      ]
+    },
+    {
+      "id": "1002",
+      "name": "Samsung Galaxy S23",
+      "shortDescription": "هاتف سامسونج الرائد",
+      "description": "Galaxy S23 مع شاشة Dynamic AMOLED وكاميرا 108 ميجابكسل.",
+      "status": "active",
+      "productNumber": "SGS23-002",
+      "price": "1100",
+      "discountStatus": "no",
+      "discount": "0",
+      "discountStart": "",
+      "discountEnd": "",
+      "quantity": "30",
+      "category": "هواتف",
+      "brand": "Samsung",
+      "images": [
+        "https://scr.wfcdn.de/25940/Samsung-Galaxy-S23-Ultra-1673639126-0-0.jpg",
+        "https://www.theelectronicswarehouse.co.uk/wp-content/uploads/2023/09/H480_C21F3BEE-C189-42F2-B336-FEFC16AC0F2D_large.jpg"
+      ]
+    },
+    {
+      "id": "1003",
+      "name": "MacBook Pro 16\"",
+      "shortDescription": "حاسوب محمول قوي",
+      "description": "MacBook Pro 16 بوصة بمعالج M2 Pro وذاكرة 32GB.",
+      "status": "inactive",
+      "productNumber": "MBP16-003",
+      "price": "2500",
+      "discountStatus": "yes",
+      "discount": "200",
+      "discountStart": "2025-08-10",
+      "discountEnd": "2025-08-25",
+      "quantity": "15",
+      "category": "حاسوب",
+      "brand": "Apple",
+      "images": [
+        "https://th.bing.com/th/id/R.5a3acb6acfb0abfb3c2d6b90fcae5421?rik=0mmjSVMrTOWIuA&pid=ImgRaw&r=0",
+        "https://tse2.mm.bing.net/th/id/OIP.xDW-TKHILwLh2mQeWZmeWgHaF3?cb=thfvnext&w=1000&h=792&rs=1&pid=ImgDetMain&o=7&rm=3"
+      ]
+    }
+  ]
+}
